@@ -1,0 +1,17 @@
+hello there
+
+\0/
+ |
+/ \	
+
+To use this program you will need python which is provided in this folder.
+make sure to extract the file.
+place all the usernames in username.txt that you would like to test for there avalibility.
+python will be necessary to use this tool, it is provided in this folder.
+have fun using this tool.
+
+if any issues occur make sure to dm me on discord f12k_
+
+\0/
+ |
+/ \
